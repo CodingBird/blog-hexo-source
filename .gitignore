@@ -1,2 +1,5 @@
 
 dump.rdb
+node_modules/
+.deploy_git
+public/
